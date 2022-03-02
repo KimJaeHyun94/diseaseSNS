@@ -198,8 +198,8 @@ Backend Ace : 채지은
 <img src="https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png" width="80px"></img>
 도커를 사용하여 MariaDB 인스턴스 생성
 
-<img src="https://t1.daumcdn.net/cfile/tistory/213F23475902E2B619" width="80px"></img>
-STS를 사용해 BackEnd 작업
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="80px"></img>
+Intellij를 사용해 BackEnd 작업
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width="80px"></img>
 VS CODE 사용하여 FrontEnd 작업
